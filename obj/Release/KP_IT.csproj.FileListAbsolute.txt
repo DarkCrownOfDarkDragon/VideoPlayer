@@ -1,0 +1,16 @@
+D:\Visual Studio\Project\KP_IT\bin\Release\KP_IT.exe.config
+D:\Visual Studio\Project\KP_IT\bin\Release\KP_IT.exe
+D:\Visual Studio\Project\KP_IT\bin\Release\KP_IT.pdb
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.csproj.ResolveComReference.cache
+D:\Visual Studio\Project\KP_IT\obj\Release\MainWindow.g.cs
+D:\Visual Studio\Project\KP_IT\obj\Release\App.g.cs
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT_MarkupCompile.cache
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT_MarkupCompile.lref
+D:\Visual Studio\Project\KP_IT\obj\Release\MainWindow.baml
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.g.resources
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.Properties.Resources.resources
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.csproj.GenerateResource.cache
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.exe
+D:\Visual Studio\Project\KP_IT\obj\Release\KP_IT.pdb

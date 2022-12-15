@@ -1,0 +1,33 @@
+D:\Visual Studio\Project\KP_IT\bin\Debug\KP_IT.exe.config
+D:\Visual Studio\Project\KP_IT\bin\Debug\KP_IT.exe
+D:\Visual Studio\Project\KP_IT\bin\Debug\KP_IT.pdb
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.csproj.ResolveComReference.cache
+D:\Visual Studio\Project\KP_IT\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\Project\KP_IT\obj\Debug\App.g.cs
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT_MarkupCompile.cache
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT_MarkupCompile.lref
+D:\Visual Studio\Project\KP_IT\obj\Debug\MainWindow.baml
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.g.resources
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.Properties.Resources.resources
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.csproj.GenerateResource.cache
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.exe
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.pdb
+D:\Visual Studio\Project\KP_IT\obj\Debug\KP_IT.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\bin\Debug\KP_IT.exe.config
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\bin\Debug\KP_IT.exe
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\bin\Debug\KP_IT.pdb
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.csproj.ResolveComReference.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\App.g.cs
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT_MarkupCompile.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT_MarkupCompile.lref
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\MainWindow.baml
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.g.resources
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.Properties.Resources.resources
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.csproj.GenerateResource.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.exe
+D:\Visual Studio\Project\Старые лабы\IT\KP_IT\obj\Debug\KP_IT.pdb
